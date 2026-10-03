@@ -1,0 +1,8 @@
+# Литература
+
+| Наименование | Источник |
+|---|---|
+| Garcia-Molina, Ullman, Widom - 2002 - Database Systems The Complete Book | [Garcia-Molina, Ullman, Widom - 2002 - Database Systems The Complete Book.pdf](library/Garcia-Molina%2C%20Ullman%2C%20Widom%20-%202002%20-%20Database%20Systems%20The%20Complete%20Book.pdf) |
+| Leskovec, Rajaraman, Ullman - 2014 - Mining of massive datasets | [Leskovec, Rajaraman, Ullman - 2014 - Mining of massive datasets.pdf](library/Leskovec%2C%20Rajaraman%2C%20Ullman%20-%202014%20-%20Mining%20of%20massive%20datasets.pdf) |
+| Гарсиа-Молина, Ульман, Уидом - 2003 - Системы баз данных. Полный курс | [Гарсиа-Молина, Ульман, Уидом - 2003 - Системы баз данных. Полный курс.pdf](library/%D0%93%D0%B0%D1%80%D1%81%D0%B8%D0%B0-%D0%9C%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0%2C%20%D0%A3%D0%BB%D1%8C%D0%BC%D0%B0%D0%BD%2C%20%D0%A3%D0%B8%D0%B4%D0%BE%D0%BC%20-%202003%20-%20%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%D0%B1%D0%B0%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.%20%D0%9F%D0%BE%D0%BB%D0%BD%D1%8B%D0%B9%20%D0%BA%D1%83%D1%80%D1%81.pdf) |
+| Лесковец, Раджараман, Ульман - 2016 - Анализ больших наборов данных наборов данных | [Лесковец, Раджараман, Ульман - 2016 - Анализ больших наборов данных наборов данных.pdf](library/%D0%9B%D0%B5%D1%81%D0%BA%D0%BE%D0%B2%D0%B5%D1%86%2C%20%D0%A0%D0%B0%D0%B4%D0%B6%D0%B0%D1%80%D0%B0%D0%BC%D0%B0%D0%BD%2C%20%D0%A3%D0%BB%D1%8C%D0%BC%D0%B0%D0%BD%20-%202016%20-%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D1%85%20%D0%BD%D0%B0%D0%B1%D0%BE%D1%80%D0%BE%D0%B2%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BD%D0%B0%D0%B1%D0%BE%D1%80%D0%BE%D0%B2%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.pdf) |
